@@ -1,5 +1,5 @@
 # optics-physics
-**Lens &amp; Mirror Equation (Gaussian Equation):**     * Solves for Focal Length ($f$), Object Distance ($d_o$), or Image Distance ($d_i$).     * Works for Concave/Convex Mirrors and Lenses.
+**Lens &amp; Mirror Equation (Gaussian Equation):**     * Solves for Focal  ($f$), Object Distance ($d_o$), or Image Distance ($d_i$).     * Works for Concave/Convex Mirrors and Lenses.
 ### 2. `lens_solver.py`
 A dedicated solver for the **Gaussian Lens/Mirror Equation**:
 $$\frac{1}{f} = \frac{1}{d_o} + \frac{1}{d_i}$$
